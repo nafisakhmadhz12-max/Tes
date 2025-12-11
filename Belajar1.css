@@ -1,0 +1,15 @@
+:root{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(218, 27, 10);
+}
+
+
+
+body{
+    background-color: rgb(31, 208, 110);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
